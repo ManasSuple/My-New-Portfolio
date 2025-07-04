@@ -70,7 +70,7 @@ export const myProjects = [
       "Store and retrieve embeddings using ChromaDB",
       "Generate answers to your questions about the document",
     ],
-    href: "",
+    href: "https://github.com/ManasSuple/RAG-PDFReader",
     logo: "",
     image: "/assets/projects/rag-pdf-reader.png",
     tags: [
@@ -109,7 +109,7 @@ export const myProjects = [
       "Full travel report with formatting",
       "Simple CLI app – just run and input your destination"
     ],
-    href: "",
+    href: "https://github.com/ManasSuple/Travel-Ai-Agent",
     logo: "",
     image: "/assets/projects/travel-ai-agent.png",
     tags: [
@@ -147,7 +147,7 @@ export const myProjects = [
       "Adds hashtags and maintains tone consistency",
       "Built with Streamlit for easy interaction",   
     ],
-    href: "",
+    href: "https://github.com/ManasSuple/LinkedIn-PostGenerator",
     logo: "",
     image: "/assets/projects/linkedin-post-generator.png",
     tags: [
