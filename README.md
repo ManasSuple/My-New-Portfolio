@@ -73,7 +73,6 @@ npm run build
 
 ---
 
-```
 
 ## 🚀 Deployment
 
@@ -97,7 +96,3 @@ Made with ❤️ by **Manas Suple**
 * Add project showcase section
 * Optimize 3D rendering performance
 * Add SEO & meta tags
-
-```
-
----
