@@ -145,7 +145,7 @@ export const myProjects = [
       "Takes natural language topics as input",
       "Generates professional LinkedIn-style posts",
       "Adds hashtags and maintains tone consistency",
-      "Built with Streamlit for easy interaction",   
+      "Built with Streamlit for easy interaction",              
     ],
     href: "https://github.com/ManasSuple/LinkedIn-PostGenerator",
     logo: "",
