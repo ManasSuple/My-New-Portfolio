@@ -7,7 +7,7 @@ Absolutely! Here's the complete `README.md` — just copy and paste it directly 
 
 This is my personal portfolio website built using **Vite + React**. It showcases my projects, skills, and the technologies I work with — all wrapped in a creative, interactive design.
 
-> 🚀 **Live Demo**: [my-new-portfolio.vercel.app](https://my-new-portfolio-v61i.vercel.app)
+> 🚀 **Live Demo**: [manas-suple-portfolio.vercel.app](https://manas-suple-portfolio.vercel.app/)
 
 ---
 
