@@ -31,6 +31,7 @@ This is my personal portfolio website built using **Vite + React**. It showcases
 ---
 
 ## 📁 Folder Structure
+```
 my-app/
 ├── assets/
 │ └── logos/ # Skill icons (SVGs)
@@ -40,7 +41,7 @@ my-app/
 ├── main.jsx
 ├── index.html
 └── tailwind.config.js
-
+```
 ---
 
 
